@@ -1,0 +1,256 @@
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.exe.config
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.exe
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.pdb
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.csprojResolveAssemblyReference.cache
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\MainWindow.g.cs
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\App.g.cs
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU_MarkupCompile.cache
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU_MarkupCompile.lref
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\MainWindow.baml
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.g.resources
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.Properties.Resources.resources
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.csproj.GenerateResource.Cache
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.exe
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.pdb
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstaDodaj.g.cs
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstaDodaj.baml
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\DodajEtiketu.g.cs
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipDodaj.g.cs
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\DodajEtiketu.baml
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipDodaj.baml
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstePrikaz.g.cs
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstePrikaz.baml
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipoviPrikaz.g.cs
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipoviPrikaz.baml
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\EtiketePrikaz.g.cs
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\EtiketePrikaz.baml
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.exe.config
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.exe
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.pdb
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.csprojAssemblyReference.cache
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\DodajEtiketu.g.cs
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\EtiketePrikaz.g.cs
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\MainWindow.g.cs
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipDodaj.g.cs
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipoviPrikaz.g.cs
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstaDodaj.g.cs
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstePrikaz.g.cs
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\App.g.cs
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU_MarkupCompile.cache
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU_MarkupCompile.lref
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\DodajEtiketu.baml
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\EtiketePrikaz.baml
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\MainWindow.baml
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipDodaj.baml
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipoviPrikaz.baml
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstaDodaj.baml
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstePrikaz.baml
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.g.resources
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.Properties.Resources.resources
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.csproj.GenerateResource.cache
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.csproj.CoreCompileInputs.cache
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.csproj.CopyComplete
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.exe
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.pdb
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaEtiketa.g.cs
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaTipova.g.cs
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaVrsta.g.cs
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaEtiketa.baml
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaTipova.baml
+C:\Users\Ivana Brkić\Desktop\VLADIMIR PROJEKAT\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaVrsta.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.exe.config
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.exe
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.pdb
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\DodajEtiketu.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\EtiketePrikaz.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaEtiketa.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaTipova.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaVrsta.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipDodaj.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipoviPrikaz.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstaDodaj.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstePrikaz.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\App.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU_MarkupCompile.cache
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU_MarkupCompile.lref
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\DodajEtiketu.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\EtiketePrikaz.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\MainWindow.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaEtiketa.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaTipova.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaVrsta.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipDodaj.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipoviPrikaz.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstaDodaj.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstePrikaz.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.g.resources
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.exe
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.pdb
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaEtiketa.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaEtiketa.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaTipa.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaTipa.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaVrsta.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaVrsta.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.exe.config
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.exe
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.pdb
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.exe
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.pdb
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\DodajEtiketu.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\EtiketePrikaz.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaEtiketa.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaTipa.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaVrsta.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaEtiketa.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaTipova.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaVrsta.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipDodaj.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipoviPrikaz.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstaDodaj.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstePrikaz.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\App.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU_MarkupCompile.cache
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU_MarkupCompile.lref
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\DodajEtiketu.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\EtiketePrikaz.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaEtiketa.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaTipa.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaVrsta.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\MainWindow.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaEtiketa.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaTipova.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaVrsta.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipDodaj.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipoviPrikaz.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstaDodaj.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstePrikaz.baml
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.g.resources
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HelpViewer.g.cs
+C:\Users\Vladimir\Desktop\HCI_Projekat\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HelpViewer.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.exe.config
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.exe
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\HCI_Projekat_4_2DU.pdb
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.csprojResolveAssemblyReference.cache
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\DodajEtiketu.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\EtiketePrikaz.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HelpViewer.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaEtiketa.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaTipa.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaVrsta.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\MainWindow.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaEtiketa.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaTipova.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaVrsta.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipDodaj.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipoviPrikaz.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstaDodaj.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstePrikaz.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\App.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU_MarkupCompile.cache
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU_MarkupCompile.lref
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\DodajEtiketu.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\EtiketePrikaz.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HelpViewer.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaEtiketa.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaTipa.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\IzmenaVrsta.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\MainWindow.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaEtiketa.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaTipova.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TabelaVrsta.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipDodaj.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\TipoviPrikaz.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstaDodaj.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\VrstePrikaz.baml
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.g.resources
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.Properties.Resources.resources
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.csproj.GenerateResource.Cache
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.exe
+F:\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Debug\HCI_Projekat_4_2DU.pdb

@@ -1,0 +1,58 @@
+﻿<Window x:Class="HCI_Projekat_4_2DU.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HCI_Projekat_4_2DU"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1200">
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top" Height="21" RenderTransformOrigin="0.502,0.685">
+                <MenuItem Name="Vrsta1" Header="_Vrsta" FontSize="14" >
+                    <MenuItem ToolTip="Izborom ove opcije u meniju otvara se prozor sa prikazom svih ugroženih vrsta. (Crtl + W)" Header="Prikaži vrste" Click="MenuItem_Click_3"/>
+                    <MenuItem ToolTip="Izborom ove opcije u meniju otvara se prozor za dodavanje ugrožene vrste. (Crtl + V)" Header="Dodaj vrstu" Name="Dodaj_vrstu" Click="MenuItem_Click"/>
+                    <MenuItem ToolTip="Izborom ove opcije u meniju otvara se prozor za izmenu ugrožene vrste. (Alt + V)" Header="Izmeni vrstu" Click="MenuItem_Click_8"/>
+                </MenuItem>
+
+                <MenuItem Header="_Etiketa" FontSize="14">
+                    <MenuItem ToolTip="Izborom ove opcije u meniju otvara se prozor sa prikazom svih etiketa. (Ctrl + R)" Header="_Prikaži etikete" Click="MenuItem_Click_4"/>
+                    <MenuItem ToolTip="Izborom ove opcije u meniju otvara se prozor za dodavanje etikete. (Ctrl + E)" Header="_Dodaj etiketu" Click="MenuItem_Click_2"/>
+                    <MenuItem ToolTip="Izborom ove opcije u meniju otvara se prozor za izmenu etikete. (Alt + E)" Header="Izmeni etiketu" Click="MenuItem_Click_6"/>
+                </MenuItem>
+
+                <MenuItem Header="_Tip" FontSize="14">
+                    <MenuItem ToolTip="Izborom ove opcije u meniju otvara se prozor sa prikazom svih tipova ugroženih vrsta. (Ctrl + U)" Header="_Prikaži tipove" Click="MenuItem_Click_5"/>
+                    <MenuItem ToolTip="Izborom ove opcije u meniju otvara se prozor za dodavanje tipa ugrožene vrste. (Ctrl + T)" Header="_Dodaj tip" Click="MenuItem_Click_1"/>
+                    <MenuItem ToolTip="Izborom ove opcije u meniju otvara se prozor za izmenu tipa ugrožene vrste." Header="Izmeni tip" Click="MenuItem_Click_7"/>
+                </MenuItem>
+
+                <MenuItem Header="_Pretraga" FontSize="14">
+                    <MenuItem ToolTip="Izborom ove opcije u meniju otvara se tabelarni prikaz svih tipova sa mogućnošću njihove pretrage." Name="PretragaTipova" Header="_Tipova" Click="PretragaTipova_Click"/>
+                    <MenuItem ToolTip="Izborom ove opcije u meniju otvara se tabelarni prikaz svih etiketa sa mogućnošću njihove pretrage." Name="PretragaEtiketa" Header="_Etiketa" Click="PretragaEtiketa_Click"/>
+                    <MenuItem ToolTip="Izborom ove opcije u meniju otvara se tabelarni prikaz svih ugroženih vrsta sa mogućnošću njihove pretrage." Name="PretragaVrsta" Header="_Vrsta" Click="PretragaVrsta_Click"/>
+                </MenuItem>
+
+                <MenuItem ToolTip="Izborom ove opcije u meniju pokreće se demo mod aplikacije koji prikazuje primer dodavanje nove ugrožene vrste. Demo mod se prekida na dugme Esc u gornjem levom uglu na tastaturi. (Ctrl + D)" Header="Demo mod" FontSize="14" Click="Demo_Begin"></MenuItem>
+                <MenuItem ToolTip="Izborom ove opcije u meniju pokreće se prozor sa pojašnjenjem svih funkcionalnosti unutar aplikacije. (F1)" Header="Pomoć" FontSize="14" Click="MenuItem_Click_9"></MenuItem>
+            </Menu>
+            <StackPanel Margin="0,-5.8,0,-0.2"></StackPanel>
+        </DockPanel>
+        <ListView ItemsSource="{Binding ListaVrsta}" x:Name="DragList" PreviewMouseLeftButtonDown="List_PreviewMouseLeftButtonDown" PreviewMouseMove="List_MouseMove" HorizontalAlignment="Left" Height="550" Margin="0,20,0,0" VerticalAlignment="Top" Width="300">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Path=Id}" />
+                        <TextBlock Text=" - "/>
+                        <TextBlock Text="{Binding Path=Ime}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Canvas DragEnter="DropList_DragEnter" Drop="DropList_Drop" AllowDrop="True" x:Name="DropList" HorizontalAlignment="Left" Height="550" Margin="300,20,-0.4,0" VerticalAlignment="Top" Width="894">
+            <Canvas.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Worldmap.png" ></ImageBrush>
+            </Canvas.Background>
+        </Canvas>
+    </Grid>
+</Window>

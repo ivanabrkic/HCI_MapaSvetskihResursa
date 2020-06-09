@@ -1,0 +1,46 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HCI_Projekat_4_2DU"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="HCI_Projekat_4_2DU.TabelaEtiketa"
+        mc:Ignorable="d"
+        Title="TabelaEtiketa" Height="450" Width="800">
+    <Grid>
+        <DataGrid IsReadOnly="True" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto" x:Name="Data"  AutoGenerateColumns="False" Margin="38,98,31.6,31" RowHeight="120">
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="FontSize" Value="14"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}"/>
+                <DataGridTemplateColumn Header="BOJA">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Boja}" Background="{Binding Boja}" Height="50" Width="80" Foreground="{Binding Boja}"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="OPIS">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBox IsReadOnly="True" Width="250"  Text="{Binding Opis}" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox TextChanged="textBox_TextChanged" x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="110,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"/>
+        <Label x:Name="label" Content="ID etikete :" HorizontalAlignment="Left" Margin="38,48,0,0" VerticalAlignment="Top"/>
+        <xctk:ColorPicker Name="BOJA" HorizontalAlignment="Left" Margin="431,52,0,0" VerticalAlignment="Top" Width="153"/>
+        <Label x:Name="label_Copy" Content="Boja etikete :" HorizontalAlignment="Left" Margin="348,48,0,0" VerticalAlignment="Top"/>
+        <Button Click="button_Click" x:Name="button" Content="Pretraži" HorizontalAlignment="Left" Margin="608,55,0,0" VerticalAlignment="Top" Width="63"/>
+        <Button Click="button_Copy_Click" x:Name="button_Copy" Content="X" HorizontalAlignment="Left" Margin="687,55,0,0" VerticalAlignment="Top" Width="31"/>
+    </Grid>
+</Window>

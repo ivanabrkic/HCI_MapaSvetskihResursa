@@ -1,0 +1,39 @@
+﻿<Window x:Class="HCI_Projekat_4_2DU.IzmenaTipa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HCI_Projekat_4_2DU"
+        mc:Ignorable="d"
+        Title="IzmenaTipa" Height="500" Width="700">
+    <Grid>
+        <ScrollViewer>
+            <ListBox ItemsSource="{Binding listaTipovaPrikaz }" x:Name="listBox" IsSynchronizedWithCurrentItem="true" HorizontalAlignment="Left" Height="418" Margin="41,15,0,0" VerticalAlignment="Top" Width="235">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Path=Id}" />
+                            <TextBlock Text=" - "/>
+                            <TextBlock Text="{Binding Path=Ime}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </ScrollViewer>
+        <Label x:Name="label" Content="Opis" HorizontalAlignment="Left" Margin="320,312,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Ikonica" HorizontalAlignment="Left" Margin="320,186,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="ID tipa" HorizontalAlignment="Left" Margin="320,39,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Ime tipa" HorizontalAlignment="Left" Margin="320,109,0,0" VerticalAlignment="Top"/>
+        <TextBox LostFocus="textBox_LostFocus" ToolTip="Ovde unesite jedinstveni ID tipa ugrožene vrste." Text="{Binding ElementName=listBox, Path=SelectedItem.Id, Mode=OneWay}" x:Name="textBox" HorizontalAlignment="Left" Margin="413,44,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="150"/>
+        <TextBox LostFocus="textBox1_LostFocus" ToolTip="Ovde unesite ime tipa ugrožene vrste." Text="{Binding ElementName=listBox, Path=SelectedItem.Ime, Mode=OneWay}" x:Name="textBox1" HorizontalAlignment="Left" Margin="413,114,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="150"/>
+        <Image Source="{Binding ElementName=listBox, Path=SelectedItem.Ikonica, Mode=OneWay}" x:Name="image" HorizontalAlignment="Left" Height="100" Margin="413,186,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox ToolTip="Ovde unesite opis tipa ugrožene vrste." VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" Text="{Binding ElementName=listBox, Path=SelectedItem.Opis, Mode=OneWay}" x:Name="textBox2" HorizontalAlignment="Left" Margin="413,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" Height="107"/>
+        <Border ToolTip="Ovde će biti prikazana dodata slika tipa. &#x0a; Obavezno je uneti sliku tipa." BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="100" Margin="413,186,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="button3" Content="Izmeni sliku" HorizontalAlignment="Left" Margin="574,196,0,0" VerticalAlignment="Top" Width="75" Click="button3_Click"/>
+        <Button x:Name="button4" Content="Ukloni sliku" HorizontalAlignment="Left" Margin="574,248,0,0" VerticalAlignment="Top" Width="75" Click="button4_Click"/>
+        <Button ToolTip="Klikom na dugme menja se selektovan tip iz liste tipova." x:Name="button" Content="Izmeni" HorizontalAlignment="Left" Margin="574,317,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+
+        <Button ToolTip="Klikom na dugme zatvara se prozor za izmenu tipa." x:Name="button1" Content="Odustani" HorizontalAlignment="Left" Margin="574,405,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <Button ToolTip="Klikom na dugme briše se selektovan tip iz liste tipova." x:Name="button2" Content="Obriši tip" HorizontalAlignment="Left" Margin="574,362,0,0" VerticalAlignment="Top" Width="75" Click="button2_Click"/>
+    </Grid>
+</Window>

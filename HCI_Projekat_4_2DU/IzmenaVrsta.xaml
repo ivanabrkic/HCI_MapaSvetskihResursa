@@ -1,0 +1,65 @@
+﻿<Window x:Class="HCI_Projekat_4_2DU.IzmenaVrsta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HCI_Projekat_4_2DU"
+        mc:Ignorable="d"
+        Title="IzmenaVrsta" Height="480" Width="1000">
+    <Grid>
+        <ListBox SelectionChanged="listBox_SelectionChanged" ItemsControl.ItemsSource="{Binding listaVrstaIzmena }" x:Name="listBox" HorizontalAlignment="Left" Height="398" Margin="41,15,0,0" VerticalAlignment="Top" IsSynchronizedWithCurrentItem="true" Width="235" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Path=Id}" />
+                        <TextBlock Text=" - "/>
+                        <TextBlock Text="{Binding Path=Ime}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Label x:Name="label" Content="ID vrste" HorizontalAlignment="Left" Margin="305,15,0,0" VerticalAlignment="Top" RenderTransformOrigin="0,-0.962"/>
+        <Label x:Name="label1" Content="Ime vrste" HorizontalAlignment="Left" Margin="305,46,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Opis vrste" HorizontalAlignment="Left" Margin="305,78,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Tip vrste" HorizontalAlignment="Left" Margin="303,190,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="Status ugrozenosti vrste" HorizontalAlignment="Left" Margin="300,227,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="Ikonica vrste" HorizontalAlignment="Left" Margin="646,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label6" Content="Da li je opasna?" HorizontalAlignment="Left" Margin="303,271,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label7" Content="IUCN Crvena lista" HorizontalAlignment="Left" Margin="305,334,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label8" Content="U naseljenom regionu?" HorizontalAlignment="Left" Margin="300,387,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label9" Content="Turisticki status" HorizontalAlignment="Left" Margin="646,151,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label10" Content="Godisnji prihod" HorizontalAlignment="Left" Margin="646,190,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label11" Content="Datum otkrivanja" HorizontalAlignment="Left" Margin="646,227,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label12" Content="Tagovana etiketom" HorizontalAlignment="Left" Margin="646,263,0,0" VerticalAlignment="Top"/>
+        <CheckBox ToolTip="Ovde izaberite da li je vrsta opasna po ljude." x:Name="checkBox_OPASNA" HorizontalAlignment="Left" Margin="500,277,0,0" VerticalAlignment="Top" IsChecked="{Binding ElementName=listBox, Path=SelectedItem.Opasna, Mode=OneWay}"/>
+        <CheckBox ToolTip="Ovde izaberite da li je vrsta na IUCN Crvenoj listi." x:Name="checkBox_IUCN" HorizontalAlignment="Left" Margin="500,337,0,0" VerticalAlignment="Top" IsChecked="{Binding ElementName=listBox, Path=SelectedItem.CrvenaLista, Mode=OneWay}"/>
+        <CheckBox ToolTip="Ovde izaberite da li vrsta živi u naseljenom regionu." x:Name="checkBox_NASELJEN" HorizontalAlignment="Left" Margin="500,397,0,0" VerticalAlignment="Top" IsChecked="{Binding ElementName=listBox, Path=SelectedItem.NaseljenRegion, Mode=OneWay}"/>
+        <TextBox ToolTip="Ovde unesite godišnji prihod od turizma." LostFocus="textBox_PRIHOD_LostFocus" Text="{Binding ElementName=listBox, Path=SelectedItem.Prihod, StringFormat=N2, Mode=OneWay}" x:Name="textBox_PRIHOD" HorizontalAlignment="Left" Height="23" Margin="841,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128"/>
+        <DatePicker ToolTip="Ovde izaberite datum otkrivanja ugrožene vrste." SelectedDate="{Binding ElementName=listBox, Path=SelectedItem.Datum, Mode=OneWay}" x:Name ="datePicker_DATUM" HorizontalAlignment="Left" Margin="841,230,0,0" VerticalAlignment="Top"/>
+
+        <Button ToolTip="Klikom na dugme zatvara se prozor za izmenu ugrožene vrste." x:Name="button_dodaj" Content="Odustani" HorizontalAlignment="Left" Margin="841,411,0,0" VerticalAlignment="Top" Width="75" Click="button_dodaj_Click" RenderTransformOrigin="0.452,-0.851"/>
+        <Button ToolTip="Klikom na dugme menja se selektovana vrsta iz liste vrsta." x:Name="button_izmeni" Content="Izmeni" HorizontalAlignment="Left" Margin="841,312,0,0" VerticalAlignment="Top" Width="75" Click="button_izmeni_Click"/>
+        <Border ToolTip="Ovde će biti prikazana dodata slika ugrožene vrste." BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="100" Margin="646,36,0,0" VerticalAlignment="Top" Width="100">
+            <Image x:Name="image_ikonica" HorizontalAlignment="Left" Height="100" Margin="-0.8,-0.8,-1.6,-1.6" VerticalAlignment="Top" Width="100" Source="{Binding SelectedItem.Ikonica, ElementName=listBox, Mode=OneWay}"/>
+        </Border>
+        <TextBox Text="{Binding ElementName=listBox, Path=SelectedItem.Id, Mode=OneWay}" ToolTip="Ovde unesite jedinstveni ID ugrožene vrste." x:Name="textBlock" LostFocus="textBlock_LostFocus" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment ="Top" Margin="500,15,0,0" Width="120"/>
+        <TextBox x:Name="textBlock1" LostFocus="textBlock1_LostFocus" HorizontalAlignment="Left" ToolTip="Ovde unesite ime ugrožene vrste." Margin="500,46,0,0" TextWrapping="Wrap" Text="{Binding ElementName=listBox, Path=SelectedItem.Ime, Mode=OneWay}" VerticalAlignment="Top" Width="120"/>
+        <TextBox ToolTip="Ovde unesite opis ugrožene vrste." Text="{Binding ElementName=listBox, Path=SelectedItem.Opis, Mode=OneWay}" x:Name="textBlock2" HorizontalAlignment="Left" Margin="500,83,0,0" TextWrapping="Wrap" HorizontalScrollBarVisibility="Disabled"
+         VerticalScrollBarVisibility="Auto" VerticalAlignment="Top" Height="86" Width="120"></TextBox>
+        <ListBox ToolTip="Ovde selektovati sve etikete kojima je vrsta tagovana." ItemsControl.ItemsSource="{Binding listaEtiketaIzmena}" SelectionMode="Multiple" x:Name="listBox1" HorizontalAlignment="Left" Height="114" Margin="646,312,0,0" VerticalAlignment="Top" Width="110">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Path=Id}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <ComboBox ToolTip="Ovde izaberite tip ugrožene vrste." ItemsControl.ItemsSource="{Binding listaTipovaIzmena}" x:Name="comboBox_TIP" HorizontalAlignment="Left" Margin="500,193,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox ToolTip="Ovde izaberite status ugroženosti vrste." ItemsControl.ItemsSource="{Binding stUgLista}" x:Name="comboBox_UGROZENOST" HorizontalAlignment="Left" Margin="500,230,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox ToolTip="Ovde izaberite status ugroženosti vrste." ItemsControl.ItemsSource="{Binding turStLista}" x:Name="comboBox_TURISTICKI" HorizontalAlignment="Left" Margin="841,154,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Izmeni sliku" HorizontalAlignment="Left" Margin="841,44,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <Button x:Name="button1" Content="Ukloni sliku" HorizontalAlignment="Left" Margin="841,89,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <Button ToolTip="Klikom na dugme briše se selektovana vrsta iz liste ugroženih vrsta." x:Name="button2" Content="Obriši vrstu" HorizontalAlignment="Left" Margin="841,360,0,0" VerticalAlignment="Top" Width="75" Click="button2_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Release\HCI_Projekat_4_2DU.exe.config
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Release\HCI_Projekat_4_2DU.exe
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\bin\Release\HCI_Projekat_4_2DU.pdb
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Release\MainWindow.g.cs
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Release\VrstaDodaj.g.cs
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Release\App.g.cs
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Release\HCI_Projekat_4_2DU_MarkupCompile.cache
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Release\HCI_Projekat_4_2DU_MarkupCompile.lref
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Release\MainWindow.baml
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Release\VrstaDodaj.baml
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Release\HCI_Projekat_4_2DU.g.resources
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Release\HCI_Projekat_4_2DU.Properties.Resources.resources
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Release\HCI_Projekat_4_2DU.csproj.GenerateResource.Cache
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Release\HCI_Projekat_4_2DU.exe
+D:\Code_Cheff\HCI_Projekat_4_2DU\HCI_Projekat_4_2DU\obj\Release\HCI_Projekat_4_2DU.pdb

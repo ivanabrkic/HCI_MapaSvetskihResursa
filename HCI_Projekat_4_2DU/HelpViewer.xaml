@@ -1,0 +1,22 @@
+﻿<Window x:Class="HCI_Projekat_4_2DU.HelpViewer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HCI_Projekat_4_2DU"
+        mc:Ignorable="d"
+        Title="HelpViewer" Height="350" Width="600">
+    <Grid>
+        <DockPanel>
+            <!--ToolBar DockPanel.Dock="Top">
+            <Button Command="NavigationCommands.BrowseBack">
+                Nazad
+            </Button>
+            <Button Command="NavigationCommands.BrowseForward">
+                Dalje
+            </Button>
+        </-->
+            <WebBrowser Name="wbHelp"></WebBrowser>
+        </DockPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,62 @@
+﻿<Window x:Class="HCI_Projekat_4_2DU.VrsteDodaj"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HCI_Projekat_4_2DU"
+        mc:Ignorable="d"
+        Title="Window1" Height="580" Width="540" KeyDown="Window_KeyDown">
+    <Grid>
+        <Label x:Name="label" Content="ID vrste" HorizontalAlignment="Left" Margin="14,15,0,0" VerticalAlignment="Top" RenderTransformOrigin="0,-0.962"/>
+        <Label x:Name="label1" Content="Ime vrste" HorizontalAlignment="Left" Margin="14,46,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Opis vrste" HorizontalAlignment="Left" Margin="14,88,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Tip vrste" HorizontalAlignment="Left" Margin="14,208,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="Status ugrozenosti vrste" HorizontalAlignment="Left" Margin="14,263,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="Ikonica vrste" HorizontalAlignment="Left" Margin="305,15,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label6" Content="Da li je opasna?" HorizontalAlignment="Left" Margin="305,233,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label7" Content="IUCN Crvena lista" HorizontalAlignment="Left" Margin="305,194,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label8" Content="U naseljenom regionu?" HorizontalAlignment="Left" Margin="305,271,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label9" Content="Turisticki status" HorizontalAlignment="Left" Margin="14,315,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label10" Content="Godisnji prihod" HorizontalAlignment="Left" Margin="14,367,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label11" Content="Datum otkrivanja" HorizontalAlignment="Left" Margin="14,419,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label12" Content="Tagovana etiketom" HorizontalAlignment="Left" Margin="305,315,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_ID" ToolTip="Ovde unesite jedinstveni ID ugrožene vrste." HorizontalAlignment="Left" Height="23" Margin="155,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" LostFocus="textBox_ID_LostFocus" Width="120"/>
+        <TextBox x:Name="textBox_IME" ToolTip="Ovde unesite ime ugrožene vrste." HorizontalAlignment="Left" Height="23" Margin="155,49,0,0" TextWrapping="Wrap" LostFocus="textBox_IME_LostFocus" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox_OPIS" ToolTip="Ovde unesite opis ugrožene vrste." HorizontalAlignment="Left" Height="86" Margin="155,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+         ScrollViewer.VerticalScrollBarVisibility="Auto" />
+        <ComboBox ItemsControl.ItemsSource="{Binding listaTipova}" ToolTip="Ovde izaberite tip ugrožene vrste." x:Name="comboBox_TIP" HorizontalAlignment="Left" Margin="155,212,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0"/>
+        <ComboBox x:Name="comboBox_UGROZENOST" ToolTip="Ovde izaberite status ugroženosti vrste." HorizontalAlignment="Left" Margin="155,267,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0">
+            <ComboBoxItem Content="Kriticno ugrozena"/>
+            <ComboBoxItem Content="Ugrozena"/>
+            <ComboBoxItem Content="Ranjiva"/>
+            <ComboBoxItem Content="Zavisna od ocuvanja stanista"/>
+            <ComboBoxItem Content="Blizu rizika"/>
+            <ComboBoxItem Content="Najmanjeg rizika"/>
+        </ComboBox>
+        <CheckBox x:Name="checkBox_OPASNA" ToolTip="Ovde izaberite da li je vrsta opasna po ljude." HorizontalAlignment="Left" Margin="446,243,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.681,1.967"/>
+        <CheckBox x:Name="checkBox_IUCN" ToolTip="Ovde izaberite da li je vrsta na IUCN Crvenoj listi." HorizontalAlignment="Left" Margin="446,204,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.456,-0.217"/>
+        <CheckBox x:Name="checkBox_NASELJEN" ToolTip="Ovde izaberite da li vrsta živi u naseljenom regionu." HorizontalAlignment="Left" Margin="446,281,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.456,-1.007"/>
+        <ComboBox x:Name="comboBox_TURISTICKI" ToolTip="Ovde izaberite turistički status vrste." HorizontalAlignment="Left" Margin="155,319,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0">
+            <ComboBoxItem Content="Izolovana"/>
+            <ComboBoxItem Content="Delimicno habituirana"/>
+            <ComboBoxItem Content="Habituirana"/>
+        </ComboBox>
+        <TextBox x:Name="textBox_PRIHOD" HorizontalAlignment="Left" LostFocus="textBox_PRIHOD_LostFocus" ToolTip="Ovde unesite godišnji prihod od turizma." Height="23" Margin="155,372,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <DatePicker SelectedDate="1/4/2018" ToolTip="Ovde izaberite datum otkrivanja ugrožene vrste." x:Name ="datePicker_DATUM" HorizontalAlignment="Left" Margin="155,421,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="image_ikonica" HorizontalAlignment="Left" Height="100" Margin="305,50,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button ToolTip="Klikom na dugme dodaje se nova vrsta u listu ugroženih vrsta." x:Name="button_dodaj" Content="Dodaj" HorizontalAlignment="Left" Margin="332,501,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <Border BorderBrush="Black" BorderThickness="1" ToolTip="Ovde će biti prikazana dodata slika ugrožene vrste." HorizontalAlignment="Left" Height="100" Margin="305,50,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button ToolTip="Klikom na dugme otvara se dijalog za izbor slike." x:Name="button" Content="Dodaj sliku" HorizontalAlignment="Left" Margin="430,73,0,0" VerticalAlignment="Top" Width="75" Click="button_Click_1"/>
+        <Button ToolTip="Klikom na dugme uklanja se trenutno postavljena slika." x:Name="button1" Content="Ukloni sliku" HorizontalAlignment="Left" Margin="430,99,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <Button ToolTip="Klikom na dugme zatvara se prozor za dodavanje nove ugrožene vrste." x:Name="button2" Content="Odustani" HorizontalAlignment="Left" Margin="430,501,0,0" VerticalAlignment="Top" Width="75" Click="button2_Click"/>
+        <ListBox x:Name="listaEtiketaXAML" ToolTip="Ovde selektovati sve etikete kojima je vrsta tagovana." ScrollViewer.VerticalScrollBarVisibility="Auto" Margin="305,346,97.6,105.4"
+
+                 VerticalAlignment="Stretch"
+
+                 ItemsControl.ItemsSource="{Binding listaEtiketa}"
+
+                 SelectionMode="Multiple">
+            
+        </ListBox>
+    </Grid>
+</Window>

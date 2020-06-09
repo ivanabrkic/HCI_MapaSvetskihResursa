@@ -1,0 +1,42 @@
+﻿<Window x:Class="HCI_Projekat_4_2DU.TipoviPrikaz"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HCI_Projekat_4_2DU"
+        mc:Ignorable="d"
+        Title="TipoviPrikaz" Height="500" Width="600">
+    <Grid>
+        <ScrollViewer>
+            <ListBox ItemsSource="{Binding listaZaPrikaz }" x:Name="listBox" IsSynchronizedWithCurrentItem="true" HorizontalAlignment="Left" Height="418" Margin="41,15,0,0" VerticalAlignment="Top" Width="235">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Path=Id}" />
+                            <TextBlock Text=" - "/>
+                            <TextBlock Text="{Binding Path=Ime}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </ScrollViewer>
+
+        <Label x:Name="label" Content="Opis" HorizontalAlignment="Left" Margin="320,312,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Ikonica" HorizontalAlignment="Left" Margin="320,186,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="ID tipa" HorizontalAlignment="Left" Margin="320,39,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Ime tipa" HorizontalAlignment="Left" Margin="320,109,0,0" VerticalAlignment="Top"/>
+        <TextBox IsReadOnly="True" Text="{Binding ElementName=listBox, Path=SelectedItem.Id}" x:Name="textBlock" HorizontalAlignment="Left" Margin="413,44,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="100"/>
+        <TextBox IsReadOnly="True" Text="{Binding ElementName=listBox, Path=SelectedItem.Ime}" x:Name="textBlock1" HorizontalAlignment="Left" Margin="413,114,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="100"/>
+        <Image Source="{Binding ElementName=listBox, Path=SelectedItem.Ikonica}" x:Name="image" HorizontalAlignment="Left" Height="100" Margin="413,186,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox IsReadOnly="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" Text="{Binding ElementName=listBox, Path=SelectedItem.Opis}" x:Name="textBlock2" HorizontalAlignment="Left" Margin="413,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" Height="107"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="100" Margin="413,186,0,0" VerticalAlignment="Top" Width="100"/>
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>
